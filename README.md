@@ -75,9 +75,13 @@ Explain the concept of version control in the context of Git. How does GitHub en
 **GitHub Enhancements**
 
 **Distributed Version Control**: Every contributor has a complete copy of the repository.
+
 **Collaboration:** Multiple developers can work on the same project simultaneously.
+
 **History Tracking:** Complete history of changes, including who made them and why.
+
 **Branching and Merging:** Work on different features or fixes independently.
+
 
 Branching and Merging in GitHub:
 
