@@ -9,14 +9,23 @@ Questions:
 Introduction to GitHub:
 
 What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
+
 **GitHub** is a web-based platform that uses Git, a version control system, to facilitate software development. It allows developers to host, manage, and collaborate on projects by providing a centralized location for repositories, which are collections of project files.
+
 **Primary Functions and Features of GitHub**
+
 **Repositories**: Store project files and their revision history.
+
 **Branching and Merging**: Create parallel versions of a project for isolated development and combine them.
+
 **Pull Requests**: Facilitate code reviews and discussion before merging changes.
+
 **Issues and Project Management:** Track bugs, enhancements, and tasks.
+
 **GitHub Actions:** Automate workflows like CI/CD (Continuous Integration/Continuous Deployment).
+
 **Collaboration Tools:** Enhance team communication and coordination.
+
 Repositories on GitHub:
 
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
